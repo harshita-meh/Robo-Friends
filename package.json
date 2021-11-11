@@ -1,6 +1,6 @@
 {
   "name": "robo-friends",
-  "homepage": "https://harshita-meh.github.io/robo-friends",
+  "homepage": ".",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -14,7 +14,6 @@
     "tachyons": "^4.12.0",
     "web-vitals": "^1.1.2"
   },
-
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
